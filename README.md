@@ -5,14 +5,14 @@ Codrone2 DIY
 
 in mission 1,2
 
-  only pip install e_drone
+    only pip install e_drone
   
 else mission 3
 
-  cuda10.1
-  torch1.7.1
-  opencv4.5.1
-  numpy1.19.5
+    cuda10.1
+    torch1.7.1
+    opencv4.5.1
+    numpy1.19.5
 
 # mission 1
 이륙 ⇨ 호버링(3초) ⇨ 전진 비행(80cm) ⇨ 고도 상승(높이 1.5m) ⇨ 정지 비행(5sec) ⇨ 
