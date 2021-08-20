@@ -33,6 +33,7 @@ ex)좌회전, 우회전, 유턴, 원회전, 고도상승, 하강, 정지, 착륙
 
 
 ![image](https://user-images.githubusercontent.com/70372577/130180476-c15917d4-b9ab-4782-bf89-b700caed43cc.png)
+![image](https://user-images.githubusercontent.com/70372577/130180538-4b3e946a-c86e-460f-b808-e3db920157a7.png)
 ![image](https://user-images.githubusercontent.com/70372577/130180492-2c75deb8-0672-47be-9f19-29658aa60d83.png)
 ![image](https://user-images.githubusercontent.com/70372577/130180498-062265fd-6b5f-479e-88af-7747b71ef43a.png)
 
