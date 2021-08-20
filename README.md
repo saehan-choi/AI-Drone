@@ -4,9 +4,11 @@ Codrone2 DIY
 # version
 
 in mission 1,2
+
   only pip install e_drone
   
 else mission 3
+
   cuda10.1
   torch1.7.1
   opencv4.5.1
