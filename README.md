@@ -24,11 +24,11 @@ opencv -
 웹캠으로 들어오는 이미지 분류 -> 맞는 동작수행
 
 ex)좌회전, 우회전, 유턴, 원회전, 고도상승, 하강, 정지, 착륙
+        
 
 
-![image](https://user-images.githubusercontent.com/70372577/130180154-162115cd-d136-4dd8-aa05-7cb81232edd0.png)
-![image](https://user-images.githubusercontent.com/70372577/130180174-700e3e26-0f3a-40dc-88ee-1d450a23cf49.png)
-![image](https://user-images.githubusercontent.com/70372577/130180189-f1721cb3-6a3f-4df2-9b56-102e440a1e32.png)
+
+
 
 
 
