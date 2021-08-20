@@ -26,4 +26,5 @@ opencv -
 웹캠으로 들어오는 이미지 분류 -> 맞는 동작수행
 
 ex)좌회전, 우회전, 유턴, 원회전, 고도상승, 하강, 정지, 착륙
-https://www.youtube.com/watch?v=Sy6B7mN5g4s
+
+영상 : https://www.youtube.com/watch?v=Sy6B7mN5g4s
