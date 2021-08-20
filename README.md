@@ -26,6 +26,8 @@ opencv -
 ex)좌회전, 우회전, 유턴, 원회전, 고도상승, 하강, 정지, 착륙
         
 
+![image](https://user-images.githubusercontent.com/70372577/130180265-9acd4882-3ac5-4332-9d07-a6a3b509a9db.png)
+![image](https://user-images.githubusercontent.com/70372577/130180274-24263cd8-2c88-4ef5-8c02-0e97562a03a8.png)
 
 
 
